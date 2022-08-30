@@ -1,5 +1,5 @@
-# d3jstest
-Playground for learning d3.js
+# Learning D3.js 
+https://d3js.org
 
 ## Intro
 D3.js is a general purpose library that helps
